@@ -1,5 +1,5 @@
 # adf_repo
-_This repo contains ADF Assignemnt_
+_This repo contains ADF Assignment_
 
 # ADF Assignment
 
